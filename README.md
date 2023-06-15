@@ -27,8 +27,11 @@ O arquivo do tipo json tera um retorno igual na imagem a baixo
 # Considerações
 . No sistema fiz algumas modificações no retorno do json, pois na minha avaliação ficou melhor para fazer o retorno e mais explicativo para
   o usuário final
+  
 .  Quando vem com as duas datas (data de entrada e data de saída como nula) é considerado um dia de falta
+
 . O sistema precisa ser preenchido todos os dias de semana, o sistema verifica quando é fim de semana 
+
 . Caso do fim de semana seja preenchido é considerado como hora extra
 
 

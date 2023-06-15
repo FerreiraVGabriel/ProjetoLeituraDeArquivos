@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKzSeDitvZZQtf1ItNNZak6BLW9egu2hzB74H9MhpYEjwSuWbQaHbQi86lUrH2V7T/Xm6nY32CfNC2ikQmqvlw==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\ProjetoLeituraArquivos\\ProjetoLeituraArquivos\\ProjetoLeituraArquivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
